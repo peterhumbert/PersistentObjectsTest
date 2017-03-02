@@ -1,7 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{EB1B4991-8F78-4501-9C03-55DBED35FFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{C29447E1-5B12-49AA-8285-2F4F4F1A966F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +16,12 @@ Global
 		{EB1B4991-8F78-4501-9C03-55DBED35FFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1B4991-8F78-4501-9C03-55DBED35FFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1B4991-8F78-4501-9C03-55DBED35FFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29447E1-5B12-49AA-8285-2F4F4F1A966F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29447E1-5B12-49AA-8285-2F4F4F1A966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29447E1-5B12-49AA-8285-2F4F4F1A966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29447E1-5B12-49AA-8285-2F4F4F1A966F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
